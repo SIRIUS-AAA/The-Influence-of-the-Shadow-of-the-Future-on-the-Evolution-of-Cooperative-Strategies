@@ -1,0 +1,13 @@
+match_id,game_type,horizon_type,path,L_window,reasoning_mode,seed,max_round,player1,player2,round,p_now,p_in_prompt,answer1,answer2,points1,points2,total1,total2
+exp3-BoS-rw-baseline-seed0-rep0,BoS,continuation_dynamic,rw,5,baseline,0,200,act_deepseek,act_openai_gpt,1,0.5,1,J,J,10,7,10,7
+exp3-BoS-rw-baseline-seed2-rep0,BoS,continuation_dynamic,rw,5,baseline,2,200,act_deepseek,act_openai_gpt,1,0.5,1,J,J,10,7,10,7
+exp3-BoS-rw-baseline-seed4-rep0,BoS,continuation_dynamic,rw,5,baseline,4,200,act_deepseek,act_openai_gpt,1,0.5,1,J,J,10,7,10,7
+exp3-BoS-rw-baseline-seed4-rep0,BoS,continuation_dynamic,rw,5,baseline,4,200,act_deepseek,act_openai_gpt,2,0.502528085357147,1,J,J,10,7,20,14
+exp3-BoS-rw-baseline-seed4-rep0,BoS,continuation_dynamic,rw,5,baseline,4,200,act_deepseek,act_openai_gpt,3,0.5275256520190384,1,J,J,10,7,30,21
+exp3-BoS-rw-baseline-seed4-rep0,BoS,continuation_dynamic,rw,5,baseline,4,200,act_deepseek,act_openai_gpt,4,0.4777302054636952,1,J,J,10,7,40,28
+exp3-BoS-rw-baseline-seed4-rep0,BoS,continuation_dynamic,rw,5,baseline,4,200,act_deepseek,act_openai_gpt,5,0.5124101308782608,1,J,J,10,7,50,35
+exp3-BoS-rw-baseline-seed4-rep0,BoS,continuation_dynamic,rw,5,baseline,4,200,act_deepseek,act_openai_gpt,6,0.4914950548769153,1,J,J,10,7,60,42
+exp3-BoS-rw-baseline-seed4-rep0,BoS,continuation_dynamic,rw,5,baseline,4,200,act_deepseek,act_openai_gpt,7,0.4122661931213091,1,J,J,10,7,70,49
+exp3-BoS-rw-baseline-seed6-rep0,BoS,continuation_dynamic,rw,5,baseline,6,200,act_deepseek,act_openai_gpt,1,0.5,1,J,J,10,7,10,7
+exp3-BoS-rw-baseline-seed8-rep0,BoS,continuation_dynamic,rw,5,baseline,8,200,act_deepseek,act_openai_gpt,1,0.5,1,J,F,0,0,0,0
+exp3-BoS-rw-baseline-seed8-rep0,BoS,continuation_dynamic,rw,5,baseline,8,200,act_deepseek,act_openai_gpt,2,0.504560235830991,1,F,F,7,10,7,10

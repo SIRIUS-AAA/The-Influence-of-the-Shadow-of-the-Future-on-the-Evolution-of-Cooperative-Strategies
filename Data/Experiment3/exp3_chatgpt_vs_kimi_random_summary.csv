@@ -1,0 +1,7 @@
+game_type,path,L_window,reasoning_mode,p_bin,rounds,coop_rate,avg_p,mean_points1,mean_points2
+PD,rw,5,baseline,0,1,1.0,0.4122661931213091,8.0,8.0
+PD,rw,5,baseline,5,1,1.0,0.4777302054636952,8.0,8.0
+PD,rw,5,baseline,6,1,1.0,0.4914950548769153,8.0,8.0
+PD,rw,5,baseline,7,6,0.8333333333333334,0.5004213475595245,8.333333333333334,6.666666666666667
+PD,rw,5,baseline,8,2,1.0,0.5084851833546259,8.0,8.0
+PD,rw,5,baseline,9,1,1.0,0.5275256520190384,8.0,8.0
